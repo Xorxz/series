@@ -29,17 +29,17 @@ int Series::fibonacciRec(int n)
 
 }
 
-int Series::factorialIt()
+long double Series::factorialIt()
 {
 	if (this->n < 2)
 		return 1;
-	int a=1;
+	long double a=1;
 	for (int i = 2; i <= this->n ; ++i)
 		a*=i;
 	return a;
 }
 
-int Series::factorialRec(int n)
+long double Series::factorialRec(int n)
 {
 	if(n<2)
 		return 1;

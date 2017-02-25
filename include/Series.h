@@ -10,6 +10,6 @@ public:
 	//Metodos
 	int fibonacciIt();
 	int fibonacciRec(int n);
-	int factorialIt();
-	int factorialRec(int n);
+	long double factorialIt();
+	long double factorialRec(int n);
 };

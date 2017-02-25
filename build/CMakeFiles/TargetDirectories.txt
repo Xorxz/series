@@ -1,1 +1,3 @@
-/home/jaime/series/build/CMakeFiles/Series.dir
+/home/xorxz/Escritorio/series/build/CMakeFiles/rebuild_cache.dir
+/home/xorxz/Escritorio/series/build/CMakeFiles/edit_cache.dir
+/home/xorxz/Escritorio/series/build/CMakeFiles/Series.dir

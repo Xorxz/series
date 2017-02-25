@@ -10,7 +10,13 @@
 iostream
 -
 
-/home/jaime/series/src/main.cpp
+/home/xorxz/Escritorio/series/src/Series.cpp
 Series.h
-/home/jaime/series/src/Series.h
+/home/xorxz/Escritorio/series/src/Series.h
+
+/home/xorxz/Escritorio/series/src/main.cpp
+iostream
+-
+Series.h
+/home/xorxz/Escritorio/series/src/Series.h
 
